@@ -5,7 +5,7 @@
       <text>Scientific units</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>!Find the area in \(\mathrm{m}^2\) of a pool with length \({@len@}\mathrm{cm}\) and width \({@width@}\mathrm{cm}\).</p>
+      <text><![CDATA[<p>!!Find the area in \(\mathrm{m}^2\) of a pool with length \({@len@}\mathrm{cm}\) and width \({@width@}\mathrm{cm}\).</p>
 <p>[[input:ans1]] [[validation:ans1]]</p>]]></text>
     </questiontext>
     <generalfeedback format="moodle_auto_format">
